@@ -1,4 +1,0 @@
-﻿pytest
-aiohttp
-prometheus_client
-dataclasses
